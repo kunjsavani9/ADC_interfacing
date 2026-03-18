@@ -173,7 +173,7 @@ END
 
 ## 👥 Authors
 
-**Rushik Shakdecha** & **Kunj Savani**  
+**Kunj Savani**  
 B.Tech Electronics & Communication Engineering  
 Nirma University, Institute of Technology
 

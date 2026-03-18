@@ -1,0 +1,19 @@
+# Keil µVision auto-generated files
+*.lst
+*.map
+*.d
+*.crf
+*.dep
+*.axf
+*.hex
+*.lnp
+*.sct
+*.uvguix.*
+*.uvgui.*
+*.bak
+Objects/
+Listings/
+
+# OS junk
+.DS_Store
+Thumbs.db
